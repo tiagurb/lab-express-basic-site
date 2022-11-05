@@ -1,0 +1,35 @@
+body {
+    background-image: url("/images/pink-floyd-triangle.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 100px;
+}
+
+div {
+    width: 100%;
+    display: flex;
+    position: fixed;
+    flex-direction: row;
+    justify-content: flex-end;
+    font-size: 50px;
+    color: white;
+    text-decoration: none;
+}
+
+a {
+    font-size: 50px;
+    color: white;
+    text-decoration: none;
+    margin-right: 50px;
+}
+
+h5 {
+    text-align: center;
+    color: white;
+    font-size: 35px;
+}
